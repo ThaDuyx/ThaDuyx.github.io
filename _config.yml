@@ -107,7 +107,7 @@ author:
   name             : "Simon Andersen"
   avatar           : /assets/images/profile.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**BEng** in Software technology @DTU \n **MSc** in Sound & Music Computing @AAU"
-  location         : "Nordhavn 2150 - Copenhagen, DK"
+  location         : "Nordhavn - Copenhagen, DK"
   email            : "sandersen98@live.dk"
   links:
     - label: "Email"
