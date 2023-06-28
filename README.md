@@ -1,4 +1,4 @@
-# ThaDuyx.github.io
+# Github portfolio page
 
 <!--
 To run the Github page locally.
